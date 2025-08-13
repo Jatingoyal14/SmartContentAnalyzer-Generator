@@ -220,7 +220,7 @@ This project is designed as a learning platform and welcomes contributions from:
 For technical support, questions, or collaboration opportunities:
 - **Email**: jatingoyal01407@gmail.com
 - **GitHub**: [Project Repository](https://github.com/Jatingoyal14/SmartContentAnalyzer-Generator)
-- **LinkedIn**: [Your Professional Profile](https://www.linkedin.com/in/jatingoyal14/)
+- **LinkedIn**: Profile](https://www.linkedin.com/in/jatingoyal14/)
 
 ---
 
